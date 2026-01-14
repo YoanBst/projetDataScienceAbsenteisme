@@ -1,0 +1,955 @@
+"Date";"Heure_Debut";"Heure_Fin";"Matiere";"Type_Cours";"Groupe";"LOCATION";"Professeur"
+2025-09-02;"08:00";"13:00";NA;NA;NA;"";"(Exported :13/01/2026 12:41)"
+2025-09-02;"14:30";"17:30";NA;NA;NA;"";NA
+2025-09-02;"17:30";"18:30";NA;NA;NA;"SC102";NA
+2025-09-03;"13:15";"14:15";NA;NA;NA;"";"(Exported :13/01/2026 12:41)"
+2025-09-03;"14:30";"16:00";"Intro prog C";"CTD";"G2";"TP3";NA
+2025-09-03;"14:30";"16:00";"Intro prog C";"CTD";"G1";"TP4";NA
+2025-09-03;"16:15";"17:45";"Intro prog C";"CTD";"G2";"TP5";NA
+2025-09-03;"16:15";"17:45";"Intro prog C";"CTD";"G1";"TP3";NA
+2025-09-04;"08:00";"09:30";"Shell & CLI";"CM";"";"SC102";NA
+2025-09-04;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-09-04;"09:45";"11:15";NA;NA;NA;"TP3";NA
+2025-09-04;"11:30";"13:00";NA;NA;NA;"TP3";NA
+2025-09-04;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-09-04;"14:00";"15:30";NA;NA;NA;"SC101";NA
+2025-09-04;"14:00";"15:30";NA;NA;NA;"SC102";NA
+2025-09-04;"15:45";"17:15";NA;NA;NA;"SC102";NA
+2025-09-04;"15:45";"17:15";NA;NA;NA;"SC101";NA
+2025-09-05;"08:00";"09:30";NA;NA;NA;"TP4";NA
+2025-09-05;"08:00";"09:30";NA;NA;NA;"TP3";NA
+2025-09-05;"09:45";"11:15";NA;NA;NA;"TP4";NA
+2025-09-05;"09:45";"11:15";NA;NA;NA;"TP3";NA
+2025-09-05;"11:30";"13:00";NA;NA;NA;"SC101";NA
+2025-09-05;"11:30";"13:00";NA;NA;NA;"SC102";NA
+2025-09-05;"14:00";"15:30";NA;NA;NA;"SC101";NA
+2025-09-05;"14:00";"15:30";NA;NA;NA;"SC102";NA
+2025-09-05;"15:45";"17:15";NA;NA;NA;"SC101";NA
+2025-09-08;"08:00";"09:30";"Shell & CLI";"CM";"";"SC102";NA
+2025-09-08;"09:45";"11:15";"Anglais S5";"TD";"G2";"TD012";NA
+2025-09-08;"09:45";"11:15";"Anglais S5";"TD";"G1";"SC102";NA
+2025-09-08;"11:30";"13:00";"Anglais S5";"TD";"G2";"TD012";NA
+2025-09-08;"11:30";"13:00";"Anglais S5";"TD";"G1";"SC102";NA
+2025-09-09;"08:00";"09:30";NA;NA;NA;"TP3";NA
+2025-09-09;"08:00";"09:30";NA;NA;NA;"TP4";NA
+2025-09-09;"10:15";"12:15";NA;NA;NA;"Amphi Peytavin";NA
+2025-09-09;"14:00";"15:30";NA;NA;NA;"SC102";NA
+2025-09-09;"15:45";"17:15";NA;NA;NA;"SC102";NA
+2025-09-10;"08:00";"09:30";"Fondamentaux BD relat.";"CM";"";"SC101";NA
+2025-09-10;"09:45";"11:15";"Intro prog C";"CTD";"G2";"TP3";NA
+2025-09-10;"09:45";"11:15";"Intro prog C";"CTD";"G1";"TP4";NA
+2025-09-10;"11:30";"13:00";"Intro prog C";"CTD";"G2";"TP3";NA
+2025-09-10;"11:30";"13:00";"Intro prog C";"CTD";"G1";"TP4";NA
+2025-09-10;"14:00";"15:30";NA;NA;NA;"SC102";NA
+2025-09-10;"15:45";"17:15";NA;NA;NA;"SC101";NA
+2025-09-11;"09:45";"11:15";"Modélisation et stat";"CTD";"G2";"TD015";NA
+2025-09-11;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-09-11;"11:30";"13:00";"Modélisation et stat";"CTD";"G1";"TD015";NA
+2025-09-11;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-09-12;"08:00";"09:30";"Optim science données";"CTD";"G2";"TP3";NA
+2025-09-12;"09:45";"11:15";"Optim science données";"CTD";"G1";"TP3";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-09-12;"11:30";"13:00";"Intro Système";"CM";"";"SC102";NA
+2025-09-12;"14:00";"15:30";NA;NA;NA;"TP3";NA
+2025-09-12;"14:00";"15:30";NA;NA;NA;"TP4";NA
+2025-09-12;"15:45";"17:15";NA;NA;NA;"TP4";NA
+2025-09-12;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2025-09-15;"08:00";"08:30";NA;NA;NA;"SC102";"BERRY   VINCENT"
+2025-09-15;"08:45";"09:30";"Projet semaine shell";"TD";"";"TP4";"(Exported :13/01/2026 12:41)"
+2025-09-15;"08:45";"09:30";"Projet semaine shell";"TD";"";"TP3";"(Exported :13/01/2026 12:41)"
+2025-09-15;"09:45";"11:15";"Optim science données";"CTD";"G1";"TP3";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-09-15;"09:45";"11:15";"Intro Système";"CTD";"G2";"TP6";NA
+2025-09-15;"11:30";"13:00";"Intro Système";"CTD";"G1";"TP6";NA
+2025-09-15;"11:30";"13:00";"Optim science données";"CTD";"G2";"TP3";NA
+2025-09-15;"14:00";"15:30";"Intro prog C";"CTD";"G2";"TP3";NA
+2025-09-15;"14:00";"15:30";"Intro prog C";"CTD";"G1";"TP4";NA
+2025-09-15;"15:45";"17:15";"Intro prog C";"CTD";"G2";"TP3";NA
+2025-09-15;"15:45";"17:15";"Intro prog C";"CTD";"G1";"TP4";NA
+2025-09-15;"17:30";"19:00";"Intro prog C";"CTD";"G1";"TP3";NA
+2025-09-15;"17:30";"19:00";"Intro prog C";"CTD";"G2";"TP4";NA
+2025-09-16;"08:00";"09:30";"Intro prog C";"CTD";"G2";"TP6";NA
+2025-09-16;"08:00";"09:30";"Intro prog C";"CTD";"G1";"TP5";NA
+2025-09-16;"09:45";"11:15";"Intro prog C";"CTD";"G2";"TP6";NA
+2025-09-16;"09:45";"11:15";"Intro prog C";"CTD";"G1";"TP5";NA
+2025-09-16;"11:30";"13:00";"Intro prog C";"CTD";"G1";"TP5";NA
+2025-09-16;"11:30";"13:00";"Intro prog C";"CTD";"G2";"TP6";NA
+2025-09-16;"14:00";"15:30";"Intro Système";"CTD";"G2";"TP3";NA
+2025-09-16;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"SC102";NA
+2025-09-16;"15:45";"17:15";"Intro Système";"CTD";"G1";"TP3";NA
+2025-09-16;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"SC102";NA
+2025-09-16;"17:30";"18:15";"Projet semaine shell";"TD";"";"TP4";"(Exported :13/01/2026 12:41)"
+2025-09-16;"17:30";"18:15";"Projet semaine shell";"TD";"";"TP3";"(Exported :13/01/2026 12:41)"
+2025-09-17;"08:00";"08:45";"Projet semaine shell";"TD";"";"TP3";"(Exported :13/01/2026 12:41)"
+2025-09-17;"08:00";"08:45";"Projet semaine shell";"TD";"";"TP4";"(Exported :13/01/2026 12:41)"
+2025-09-17;"08:45";"10:15";"Maths pour info";"CTD";"G1";"SC102";NA
+2025-09-17;"08:45";"10:15";"R et Data Viz";"CTD";"G2";"TP4";"CAPEL   ALEXANDRE"
+2025-09-17;"10:30";"12:00";"Maths pour info";"CTD";"G2";"SC102";NA
+2025-09-17;"10:30";"12:00";"R et Data Viz";"CTD";"G1";"TP4";"CAPEL   ALEXANDRE"
+2025-09-17;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-09-17;"14:45";"16:15";"Compta des entreprises";"CTD";"G1";"TD012";NA
+2025-09-17;"14:45";"16:15";"Intro Système";"CTD";"G2";"TP3";NA
+2025-09-17;"16:30";"18:00";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-09-17;"16:30";"18:00";"Intro Système";"CTD";"G1";"TP3";NA
+2025-09-18;"08:00";"09:30";"Culture éco";"CM";"";"SC102";NA
+2025-09-18;"09:45";"11:15";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-09-18;"11:30";"13:00";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-09-18;"14:45";"15:30";"Projet semaine shell";"TD";"";"TP3";"(Exported :13/01/2026 12:41)"
+2025-09-18;"14:45";"15:30";"Projet semaine shell";"TD";"";"TP4";"(Exported :13/01/2026 12:41)"
+2025-09-19;"08:45";"09:30";"Projet semaine shell";"TD";"";"TP6";"(Exported :13/01/2026 12:41)"
+2025-09-19;"08:45";"09:30";"Projet semaine shell";"TD";"";"TP3";"(Exported :13/01/2026 12:41)"
+2025-09-19;"09:45";"11:15";"Intro Système";"CTD";"G2";"TP6";NA
+2025-09-19;"09:45";"11:15";"Optim science données";"CTD";"G1";"SC102";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-09-19;"11:30";"13:00";"Optim science données";"CTD";"G2";"TD012";NA
+2025-09-19;"11:30";"13:00";"Intro Système";"CTD";"G1";"TP5";NA
+2025-09-19;"14:00";"15:30";"Fondamentaux BD relat.";"CTD";"G2";"TD012";NA
+2025-09-19;"14:00";"15:30";"Intro Système";"CTD";"G1";"TP5";NA
+2025-09-19;"15:45";"17:15";"Fondamentaux BD relat.";"CTD";"G1";"TD012";NA
+2025-09-19;"15:45";"17:15";"Intro Système";"CTD";"G2";"TP5";NA
+2025-09-22;"14:00";"15:30";"R et Data Viz";"CTD";"G1";"TP3";"CAPEL   ALEXANDRE"
+2025-09-22;"15:45";"17:15";"R et Data Viz";"CTD";"G2";"TP3";"CAPEL   ALEXANDRE"
+2025-09-23;"09:00";"12:00";NA;NA;NA;"";"(Exported :13/01/2026 12:41)"
+2025-09-23;"13:00";"14:30";"Intro Système";"CTD";"G2";"TP5";NA
+2025-09-23;"13:00";"14:30";"Fondamentaux BD relat.";"CTD";"G1";"TD015";NA
+2025-09-23;"14:45";"16:15";"Fondamentaux BD relat.";"CTD";"G2";"TD015";NA
+2025-09-23;"14:45";"16:15";"Intro Système";"CTD";"G1";"TP5";NA
+2025-09-24;"08:45";"10:15";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-09-24;"08:45";"10:15";"Optim science données";"CTD";"G2";"TP3";NA
+2025-09-24;"10:30";"12:00";"Optim science données";"CTD";"G1";"TP3";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-09-24;"10:30";"12:00";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-09-24;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-09-24;"14:45";"16:15";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-09-24;"16:30";"18:00";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-09-25;"08:00";"09:30";"Culture éco";"CM";"";"SC102";NA
+2025-09-25;"09:45";"11:15";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-09-25;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-09-25;"11:30";"13:00";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-09-25;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-09-26;"08:00";"09:30";"Gestion de projet";"CM";"";"SC102";NA
+2025-09-26;"09:45";"11:15";"Gestion de projet";"CM";"";"SC102";NA
+2025-09-26;"13:00";"18:45";NA;NA;NA;"";"Visibilité"
+2025-09-29;"09:45";"11:15";"Maths pour info";"CTD";"G2";"SC102";NA
+2025-09-29;"09:45";"11:15";"Gestion de projet";"TD";"G1";"TP4";NA
+2025-09-29;"11:30";"13:00";"Gestion de projet";"TD";"G2";"SC102";NA
+2025-09-29;"11:30";"13:00";"Maths pour info";"CTD";"G1";"TD015";NA
+2025-09-29;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-09-29;"14:00";"15:30";"Gestion de projet";"TD";"G2";"TP5";NA
+2025-09-29;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"TD012";NA
+2025-09-29;"15:45";"17:15";"Gestion de projet";"TD";"G1";"TP5";NA
+2025-09-30;"08:30";"09:30";"Shell & CLI";"Exam";"";"SC101\,SC201";"GUENOUNE   HANI"
+2025-09-30;"09:45";"11:15";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-09-30;"09:45";"11:15";"Intro Système";"CTD";"G2";"TP6";NA
+2025-09-30;"11:30";"13:00";"Optim science données";"CTD";"G2";"TP4";NA
+2025-09-30;"11:30";"13:00";"Intro Système";"CTD";"G1";"TP6";NA
+2025-09-30;"14:00";"15:30";"Optim science données";"CTD";"G2";"TP4";NA
+2025-09-30;"14:00";"15:30";"Maths pour info";"CTD";"G1";"SC102";NA
+2025-09-30;"15:45";"17:15";"Maths pour info";"CTD";"G2";"SC102";NA
+2025-09-30;"15:45";"17:15";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-01;"08:45";"10:15";"R et Data Viz";"CTD";"G2";"TP3";"CAPEL   ALEXANDRE"
+2025-10-01;"08:45";"10:15";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-10-01;"10:30";"12:00";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-10-01;"10:30";"12:00";"R et Data Viz";"CTD";"G1";"TP3";"CAPEL   ALEXANDRE"
+2025-10-01;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-10-01;"14:45";"16:15";"Fondamentaux BD relat.";"CTD";"G2";"SC102";NA
+2025-10-01;"14:45";"16:15";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-10-01;"16:30";"18:00";"Fondamentaux BD relat.";"CTD";"G1";"SC102";NA
+2025-10-01;"16:30";"18:00";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-10-02;"08:00";"09:30";"Culture éco";"CM";"";"SC101";NA
+2025-10-03;"14:00";"15:30";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-03;"14:00";"15:30";"Prog. C";"CTD";"G1";"Amphi Peytavin";NA
+2025-10-03;"16:15";"17:45";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-03;"16:15";"17:45";"Prog. C";"CTD";"G1";"TP3";NA
+2025-10-04;"09:45";"11:15";"Optim science données";"CTD";"G2";"TP4";NA
+2025-10-04;"11:30";"13:00";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-06;"09:45";"11:15";"Anglais S5";"TD";"G1";"SC102";NA
+2025-10-06;"09:45";"11:15";"Anglais S5";"TD";"G2";"TD012";NA
+2025-10-06;"11:30";"13:00";"Anglais S5";"TD";"G2";"TD012";NA
+2025-10-06;"11:30";"13:00";"Anglais S5";"TD";"G1";"SC102";NA
+2025-10-06;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-10-06;"14:00";"15:30";"Fondamentaux BD relat.";"CTD";"G2";"TP4";NA
+2025-10-06;"15:45";"17:15";"Fondamentaux BD relat.";"CTD";"G1";"TP4";NA
+2025-10-06;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"TD012";NA
+2025-10-07;"08:00";"09:30";"Optim science données";"CTD";"G2";"TP4";NA
+2025-10-07;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-10-07;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"TP5";NA
+2025-10-07;"09:45";"11:15";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-07;"11:30";"13:00";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-07;"11:30";"13:00";"R et Data Viz";"CTD";"G2";"TP3";"CAPEL   ALEXANDRE"
+2025-10-07;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"TP4";NA
+2025-10-07;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"TP4";NA
+2025-10-08;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G2";"TD012";NA
+2025-10-08;"08:00";"09:30";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-08;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G1";"SC102";NA
+2025-10-08;"09:45";"11:15";"Optim science données";"CTD";"G2";"TP4";NA
+2025-10-08;"11:30";"13:00";"R et Data Viz";"CTD";"G1";"TP6";"CAPEL   ALEXANDRE"
+2025-10-08;"11:30";"13:00";"Optim science données";"CTD";"G2";"TP4";NA
+2025-10-08;"14:00";"15:30";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-08;"14:00";"15:30";"Prog. C";"CTD";"G1";"TP5";NA
+2025-10-08;"15:45";"17:15";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-08;"15:45";"17:15";"Prog. C";"CTD";"G1";"TP5";NA
+2025-10-08;"17:15";"18:15";NA;NA;NA;"Amphi Peytavin";"(Exported :13/01/2026 12:41)"
+2025-10-09;"08:00";"09:30";"Prog. C";"CTD";"G1";"TP4";NA
+2025-10-09;"08:00";"09:30";"Prog. C";"CTD";"G2";"TP3";NA
+2025-10-09;"09:45";"11:15";"Prog. C";"CTD";"G1";"TP4";NA
+2025-10-09;"09:45";"11:15";"Prog. C";"CTD";"G2";"TP3";NA
+2025-10-09;"11:30";"13:00";"Prog. C";"CTD";"G1";"TP4";NA
+2025-10-09;"11:30";"13:00";"Prog. C";"CTD";"G2";"TP3";NA
+2025-10-10;"08:00";"09:30";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-10;"08:00";"09:30";"Prog. C";"CTD";"G1";"TP3";NA
+2025-10-10;"09:45";"11:15";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-10;"09:45";"11:15";"Prog. C";"CTD";"G1";"TP3";NA
+2025-10-10;"11:30";"13:00";"Prog. C";"CTD";"G1";"TP3";NA
+2025-10-10;"11:30";"13:00";"Prog. C";"CTD";"G2";"TP4";NA
+2025-10-10;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-10-10;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"TD012";NA
+2025-10-13;"08:00";"09:30";"Prog Système & Assembleur";"CM";"";"SC003";NA
+2025-10-13;"09:45";"11:15";"Anglais S5";"TD";"G2";"SC102";NA
+2025-10-13;"09:45";"11:15";"Anglais S5";"TD";"G1";"TD012";NA
+2025-10-13;"11:30";"13:00";"Anglais S5";"TD";"G1";"TD012";NA
+2025-10-13;"11:30";"13:00";"Anglais S5";"TD";"G2";"SC102";NA
+2025-10-13;"14:00";"15:30";"Algo.et Types abstrait 1";"CTD";"G2";"TP5";NA
+2025-10-13;"15:45";"17:15";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-10-14;"08:00";"09:30";"Optim science données";"CTD";"G2";"TP4";NA
+2025-10-14;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-10-14;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"TP5";NA
+2025-10-14;"09:45";"11:15";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-14;"11:30";"13:00";"Prog Système & Assembleur";"CM";"";"SC101";NA
+2025-10-14;"14:00";"15:30";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-10-14;"14:00";"15:30";"Optim science données";"CTD";"G2";"TP4";NA
+2025-10-14;"15:45";"17:15";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-10-14;"15:45";"17:15";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-15;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G2";"TD012";NA
+2025-10-15;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-10-15;"09:45";"11:15";NA;NA;NA;"TP6";NA
+2025-10-15;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-10-15;"14:45";"16:15";NA;NA;NA;"TP3";NA
+2025-10-15;"14:45";"16:15";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-10-15;"16:30";"18:00";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-10-15;"16:30";"18:00";NA;NA;NA;"TP3";NA
+2025-10-16;"08:00";"09:30";"Culture éco";"CM";"";"SC102";NA
+2025-10-16;"09:45";"11:15";"Culture éco";"TD";"G2";"SC102";NA
+2025-10-16;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-10-16;"11:30";"13:00";"Culture éco";"TD";"G1";"SC102";NA
+2025-10-16;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-10-16;"13:00";"20:00";NA;NA;NA;"";NA
+2025-10-17;"08:00";"09:30";"Maths pour info";"CTD";"G1";"TD012";NA
+2025-10-17;"08:00";"09:30";"R et Data Viz";"CTD";"G2";"TP4";"CAPEL   ALEXANDRE"
+2025-10-17;"09:45";"11:15";"R et Data Viz";"CTD";"G1";"TP4";"CAPEL   ALEXANDRE"
+2025-10-17;"09:45";"11:15";"Maths pour info";"CTD";"G2";"SC102";NA
+2025-10-17;"11:30";"13:00";"Prog Système & Assembleur";"CM";"";"SC102";NA
+2025-10-17;"14:00";"15:30";NA;NA;NA;"TP3";NA
+2025-10-20;"08:00";"09:30";"Culture éco";"CM";"";"SC102";NA
+2025-10-20;"09:45";"11:15";"Anglais S5";"TD";"G2";"SC102";NA
+2025-10-20;"09:45";"11:15";"Anglais S5";"TD";"G1";"TD012";NA
+2025-10-20;"11:30";"13:00";"Anglais S5";"TD";"G2";"SC102";NA
+2025-10-20;"11:30";"13:00";"Anglais S5";"TD";"G1";"TD012";NA
+2025-10-20;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"SC101";NA
+2025-10-20;"14:00";"15:30";"R et Data Viz";"CTD";"G2";"TP4";"CAPEL   ALEXANDRE"
+2025-10-20;"15:45";"17:15";"R et Data Viz";"CTD";"G1";"TP4";"CAPEL   ALEXANDRE"
+2025-10-20;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"SC101";NA
+2025-10-21;"08:00";"09:30";"Outils collaboratifs Git";"CM";"";"SC101";NA
+2025-10-21;"09:45";"11:15";"Outils collaboratifs Git";"TD";"";"TP5";NA
+2025-10-21;"09:45";"11:15";"Outils collaboratifs Git";"TD";"";"TP4";NA
+2025-10-21;"11:30";"13:00";"Outils collaboratifs Git";"TD";"";"TP5";NA
+2025-10-21;"11:30";"13:00";"Outils collaboratifs Git";"TD";"";"TP4";NA
+2025-10-21;"14:00";"15:30";"Outils collaboratifs Git";"TD";"";"TP4";NA
+2025-10-21;"14:00";"15:30";"Outils collaboratifs Git";"TD";"";"TP5";NA
+2025-10-21;"15:45";"17:15";"Outils collaboratifs Git";"TD";"";"TP5";NA
+2025-10-21;"15:45";"17:15";"Outils collaboratifs Git";"TD";"";"TP4";NA
+2025-10-22;"08:45";"10:15";NA;NA;NA;"TP3";NA
+2025-10-22;"08:45";"10:15";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-10-22;"10:30";"12:00";"Maths pour info";"CTD";"G2";"SC102";NA
+2025-10-22;"10:30";"12:00";NA;NA;NA;"TP3";NA
+2025-10-22;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-10-22;"14:45";"16:15";NA;NA;NA;"TP6";NA
+2025-10-22;"14:45";"16:15";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-10-22;"16:30";"18:00";NA;NA;NA;"TP4";NA
+2025-10-22;"16:30";"18:00";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-10-23;"08:00";"09:30";"Culture éco";"TD";"G2";"SC102";NA
+2025-10-23;"08:00";"09:30";"Optim science données";"CTD";"G1";"TP5";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-10-23;"09:45";"11:15";"Culture éco";"TD";"G1";"SC102";NA
+2025-10-23;"09:45";"11:15";"Optim science données";"CTD";"G2";"TP5";NA
+2025-10-23;"11:30";"13:00";"Fondamentaux BD relat.";"CTD";"G1";"TD012";NA
+2025-10-24;"08:00";"09:30";"Maths pour info";"CTD";"G1";"TD012";NA
+2025-10-24;"08:00";"09:30";"Fondamentaux BD relat.";"CTD";"G2";"TD015";NA
+2025-10-24;"09:45";"11:15";"Maths pour info";"CTD";"G2";"SC102";NA
+2025-10-24;"11:30";"13:00";"Prog Système & Assembleur";"CM";"";"SC101";NA
+2025-10-24;"14:00";"15:30";"Fondamentaux BD relat.";"CTD";"G2";"TP3";NA
+2025-10-24;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-10-24;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"TD012";NA
+2025-10-24;"15:45";"17:15";"Fondamentaux BD relat.";"CTD";"G1";"TP3";NA
+2025-11-03;"08:00";"09:30";NA;NA;NA;"SC102";NA
+2025-11-03;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"SC102";NA
+2025-11-03;"09:45";"11:15";"Gestion de projet";"TD";"G1";"TD015";NA
+2025-11-03;"11:30";"13:00";"Algo.et Types abstrait 1";"CTD";"G1";"SC102";NA
+2025-11-03;"11:30";"13:00";"Gestion de projet";"TD";"G2";"TD015";NA
+2025-11-03;"14:00";"15:30";"Gestion de projet";"TD";"G1";"SC102";NA
+2025-11-03;"14:00";"15:30";"Fondamentaux BD relat.";"CTD";"G2";"TP5";NA
+2025-11-03;"15:45";"17:15";"Fondamentaux BD relat.";"CTD";"G1";"TP5";NA
+2025-11-03;"15:45";"17:15";"Gestion de projet";"TD";"G2";"SC102";NA
+2025-11-03;"17:15";"18:45";"Compta des entreprises";"CM";"";"SC004";NA
+2025-11-04;"08:00";"09:30";NA;NA;NA;"TP3";NA
+2025-11-04;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-11-04;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"TP5";NA
+2025-11-04;"09:45";"11:15";NA;NA;NA;"TP3";NA
+2025-11-04;"11:30";"13:00";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-11-04;"14:00";"15:30";"Modélisation et stat";"CTD";"G2";"TD012";NA
+2025-11-04;"15:45";"17:15";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-11-04;"17:15";"18:30";NA;NA;NA;"SC101";NA
+2025-11-05;"08:00";"09:30";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-11-05;"08:00";"09:30";NA;NA;NA;"TP4";NA
+2025-11-05;"09:45";"11:15";NA;NA;NA;"TP4";NA
+2025-11-05;"09:45";"11:15";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-11-05;"12:30";"14:30";NA;NA;NA;"Amphi Peytavin";"CHAPELLIER   PHILIPPE"
+2025-11-05;"14:45";"16:15";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-11-05;"14:45";"16:15";NA;NA;NA;"TP3";NA
+2025-11-05;"16:30";"18:00";NA;NA;NA;"TP3";NA
+2025-11-05;"16:30";"18:00";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-11-06;"08:00";"09:30";"Culture éco";"CM";"";"SC102";"LOPEZ   LYSIANE"
+2025-11-06;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-11-06;"09:45";"11:15";"Culture éco";"TD";"G2";"SC102";NA
+2025-11-06;"11:30";"13:00";"Culture éco";"TD";"G1";"SC102";NA
+2025-11-06;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-11-07;"08:00";"09:30";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-11-07;"09:45";"11:15";NA;NA;NA;"TP3";NA
+2025-11-07;"09:45";"11:15";"Optim science données";"CTD";"G1";"SC101";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-11-07;"11:30";"13:00";NA;NA;NA;"TP3";NA
+2025-11-07;"11:30";"13:00";"Optim science données";"CTD";"G2";"TP5";NA
+2025-11-07;"14:00";"15:30";"Prog. C";"CTD";"G1";"TP3";NA
+2025-11-07;"14:00";"15:30";"Prog. C";"CTD";"G2";"TP4";NA
+2025-11-07;"15:45";"17:15";"Prog. C";"CTD";"G1";"Amphi Peytavin";NA
+2025-11-07;"15:45";"17:15";"Prog. C";"CTD";"G2";"TP4";NA
+2025-11-10;"08:00";"09:30";"Culture éco";"CM";"";"SC102";NA
+2025-11-10;"09:45";"11:15";"Anglais S5";"TD";"G2";"SC102";NA
+2025-11-10;"09:45";"11:15";"Anglais S5";"TD";"G1";"TD012";NA
+2025-11-10;"11:30";"13:00";"Anglais S5";"TD";"G1";"TD012";NA
+2025-11-10;"11:30";"13:00";"Anglais S5";"TD";"G2";"SC102";NA
+2025-11-10;"14:00";"15:30";NA;NA;NA;"TP3";NA
+2025-11-10;"14:00";"15:30";"Culture éco";"TD";"G1";"TD012";NA
+2025-11-10;"15:45";"17:15";"Culture éco";"TD";"G2";"TD012";NA
+2025-11-10;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2025-11-10;"17:15";"19:15";NA;NA;NA;"SC101";NA
+2025-11-12;"08:00";"09:30";NA;NA;NA;"SC102";NA
+2025-11-12;"09:45";"11:15";NA;NA;NA;"TD012";NA
+2025-11-12;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-11-12;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-11-12;"11:30";"13:00";NA;NA;NA;"TD012";NA
+2025-11-12;"13:30";"14:45";NA;NA;NA;"";"(Exported :13/01/2026 12:41)"
+2025-11-13;"08:00";"09:30";"Fondamentaux BD relat.";"CTD";"G1";"TP3";NA
+2025-11-13;"14:00";"16:30";NA;NA;NA;"SC101";"(Exported :13/01/2026 12:41)"
+2025-11-14;"08:00";"09:30";"Fondamentaux BD relat.";"CTD";"G2";"TP4";NA
+2025-11-14;"14:00";"15:30";"Algo.et Types abstrait 1";"CTD";"G1";"SC101";NA
+2025-11-14;"14:00";"15:30";"Maths pour info";"CTD";"G2";"TD012";NA
+2025-11-14;"15:45";"17:15";"Maths pour info";"CTD";"G1";"TD012";NA
+2025-11-14;"15:45";"17:15";"Algo.et Types abstrait 1";"CTD";"G2";"SC101";NA
+2025-11-17;"08:00";"09:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-11-17;"08:00";"09:30";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-11-17;"09:45";"11:15";"Anglais S5";"TD";"G2";"TD012";NA
+2025-11-17;"09:45";"11:15";"Anglais S5";"TD";"G1";"SC102";NA
+2025-11-17;"11:30";"13:00";"Anglais S5";"TD";"G1";"SC102";NA
+2025-11-17;"11:30";"13:00";"Anglais S5";"TD";"G2";"TD012";NA
+2025-11-17;"14:00";"17:15";NA;NA;NA;"Le Bocal\,Salle du conseil\,Le Nautilus\,SC102\,La Bulle\,La Bul
+ le Haut\,SC101\,SC105\,SC201\,SC104\,SC202\,SC003\,SC004\,TD115\,TD 4.06
+ \,TD 4.04\,SR121";NA
+2025-11-18;"08:30";"10:00";"DDRS -";"CM";"";"Terrain";NA
+2025-11-18;"14:00";"15:30";"DDRS -";"CM";"";"Amphi Dumontet";NA
+2025-11-18;"17:45";"19:45";NA;NA;NA;"SC101";NA
+2025-11-19;"08:30";"10:00";"DDRS -";"CM";"";"Amphi Dumontet";NA
+2025-11-19;"14:00";"15:00";"DDRS -";"CM";"";"Amphi Dumontet";NA
+2025-11-19;"15:00";"16:00";"DDRS -";"CM";"";"Amphi Dumontet";NA
+2025-11-19;"16:00";"17:00";"DDRS -";"CM";"";"Amphi Dumontet";NA
+2025-11-20;"08:30";"09:30";"DDRS -";"CM";"";"Amphi Dumontet";NA
+2025-11-20;"09:45";"11:45";NA;NA;NA;"Amphi Dumontet";NA
+2025-11-20;"13:00";"13:30";NA;NA;NA;"Amphi Dumontet";"(Exported :13/01/2026 12:41)"
+2025-11-20;"13:45";"15:45";NA;NA;NA;"Amphi Dumontet";NA
+2025-11-20;"16:00";"16:30";NA;NA;NA;"Amphi Dumontet";"(Exported :13/01/2026 12:41)"
+2025-11-21;"08:00";"09:30";"Fondamentaux BD relat.";"Exam";"";"Amphi Peytavin";"LAURENT   ANNE"
+2025-11-21;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-11-21;"09:45";"11:15";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-11-21;"13:00";"15:00";"Modélisation et stat";"Exam";"";"Amphi Peytavin";NA
+2025-11-24;"08:00";"09:30";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-11-24;"08:00";"09:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-11-24;"09:45";"11:15";"Anglais S5";"TD";"G1";"SC102";NA
+2025-11-24;"09:45";"11:15";"Anglais S5";"TD";"G2";"TD012";NA
+2025-11-24;"11:30";"13:00";"Anglais S5";"TD";"G1";"SC102";NA
+2025-11-24;"11:30";"13:00";"Anglais S5";"TD";"G2";"TD012";NA
+2025-11-24;"14:00";"15:30";NA;NA;NA;"TP3";NA
+2025-11-24;"14:00";"15:30";"Optim science données";"CTD";"G2";"TP5";NA
+2025-11-24;"15:45";"17:15";"Optim science données";"CTD";"G1";"TP5";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-11-24;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2025-11-25;"08:00";"09:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-11-25;"08:00";"09:30";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2025-11-25;"09:45";"11:15";"Maths pour info";"CTD";"G2";"TD015";NA
+2025-11-25;"11:30";"13:00";"Maths pour info";"CTD";"G1";"TD015";NA
+2025-11-25;"14:00";"15:30";"ACSI";"CM";"";"SC101";NA
+2025-11-25;"15:45";"17:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-11-25;"15:45";"17:15";"ACSI";"TD";"G2";"SC102";NA
+2025-11-25;"17:30";"19:00";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-11-25;"17:30";"19:00";"ACSI";"TD";"G1";"TP5";NA
+2025-11-26;"08:45";"10:15";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-11-26;"08:45";"10:15";NA;NA;NA;"TP5";NA
+2025-11-26;"10:30";"12:00";NA;NA;NA;"TP5";NA
+2025-11-26;"10:30";"12:00";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-11-26;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-11-26;"14:45";"16:15";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-11-26;"14:45";"16:15";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-11-26;"16:30";"18:00";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-11-26;"16:30";"18:00";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-11-27;"08:00";"09:30";"Culture éco";"CM";"";"SC101";NA
+2025-11-27;"09:45";"11:15";"Culture éco";"TD";"G2";"SC101";NA
+2025-11-27;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";NA
+2025-11-27;"11:30";"13:00";"Culture éco";"TD";"G1";"SC101";NA
+2025-11-27;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-11-27;"14:00";"15:00";NA;NA;NA;"SC101";"(Exported :13/01/2026 12:41)"
+2025-11-28;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G1";"TD012";NA
+2025-11-28;"08:00";"09:30";NA;NA;NA;"TP4";NA
+2025-11-28;"09:45";"11:15";NA;NA;NA;"TP4";NA
+2025-11-28;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"TD012";NA
+2025-11-28;"11:30";"13:00";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-11-28;"11:30";"13:00";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-11-28;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"SC101";NA
+2025-11-28;"15:45";"17:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-11-28;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"SC101";NA
+2025-12-01;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G2";"TD012";NA
+2025-12-01;"09:45";"11:15";"Anglais S5";"TD";"G1";"TD012";"GAMBA   JOSIPA"
+2025-12-01;"09:45";"11:15";"Anglais S5";"TD";"G2";"STX 4.07";"GAUSSENS   NOEL"
+2025-12-01;"11:30";"13:00";"Anglais S5";"TD";"G1";"TD012";"GAMBA   JOSIPA"
+2025-12-01;"11:30";"13:00";"Anglais S5";"TD";"G2";"STX 4.07";"GAUSSENS   NOEL"
+2025-12-01;"14:00";"15:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-01;"14:00";"15:30";"Modélisation et stat";"CTD";"G2";"SC102";"DIDIER   GILLES"
+2025-12-01;"15:45";"17:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-01;"15:45";"17:15";"Modélisation et stat";"CTD";"G1";"SC102";NA
+2025-12-02;"08:00";"09:30";"Optim science données";"CTD";"G2";"TP3";NA
+2025-12-02;"08:00";"09:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-02;"09:45";"11:15";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-12-02;"09:45";"11:15";"Optim science données";"CTD";"G2";"TP3";NA
+2025-12-02;"11:30";"13:00";"Modélisation et stat";"CTD";"G2";"TD012";"DIDIER   GILLES"
+2025-12-02;"11:30";"13:00";"Optim science données";"CTD";"G1";"TP5";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-12-02;"14:00";"15:30";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-12-02;"15:45";"17:15";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-12-03;"08:45";"10:15";"Algo.et Types abstrait 1";"CTD";"G1";"TD012";NA
+2025-12-03;"08:45";"10:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-03;"10:30";"12:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-03;"10:30";"12:00";"Algo.et Types abstrait 1";"CTD";"G2";"TD012";NA
+2025-12-03;"13:00";"14:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-12-03;"14:45";"16:15";"Compta des entreprises";"CTD";"G2";"SC101";NA
+2025-12-03;"14:45";"16:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-03;"16:30";"18:00";"Compta des entreprises";"CTD";"G1";"SC101";NA
+2025-12-03;"16:30";"18:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-04;"08:00";"09:30";"Culture éco";"CM";"";"SC102";"LOPEZ   LYSIANE"
+2025-12-04;"09:45";"11:15";"Culture éco";"TD";"G2";"SC102";"LOPEZ   LYSIANE"
+2025-12-04;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";"BOURDON   ISABELLE"
+2025-12-04;"11:30";"13:00";"Culture éco";"TD";"G1";"SC102";NA
+2025-12-04;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-12-04;"13:30";"16:30";NA;NA;NA;"SC001";NA
+2025-12-04;"13:30";"20:15";NA;NA;NA;"SC102\,SC202\,SC201";NA
+2025-12-05;"08:00";"09:30";"Algo.et Types abstrait 1";"CTD";"G1";"TP5";NA
+2025-12-05;"08:00";"09:30";"Optim science données";"CTD";"G2";"TP4";NA
+2025-12-05;"09:45";"11:15";"Optim science données";"CTD";"G1";"TP4";"LOPEZ LOPERA   ANDRES FELIPE"
+2025-12-05;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"SC102";NA
+2025-12-05;"11:30";"13:00";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-12-05;"11:30";"13:00";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-05;"15:00";"20:00";NA;NA;NA;"";NA
+2025-12-08;"08:00";"09:30";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-12-08;"08:00";"09:30";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2025-12-08;"09:45";"11:15";"Anglais S5";"TD";"G1";"TD012";"GAMBA   JOSIPA"
+2025-12-08;"09:45";"11:15";"Anglais TOEIC";"TD";"G2";"SC102";"GAUSSENS   NOEL"
+2025-12-08;"11:30";"13:00";"Anglais S5";"TD";"G2";"SC102";"GAUSSENS   NOEL"
+2025-12-08;"11:30";"13:00";"Anglais TOEIC";"TD";"G1";"TD012";NA
+2025-12-08;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-12-08;"14:00";"15:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-08;"15:45";"17:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-08;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"TD012";"DIDIER   GILLES"
+2025-12-08;"17:30";"18:30";NA;NA;NA;"Amphi Peytavin";"(Exported :13/01/2026 12:41)"
+2025-12-09;"08:00";"09:30";"Compta des entreprises";"CM";"";"SC101";NA
+2025-12-09;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G1";"SC101";NA
+2025-12-09;"09:45";"11:15";"Compta des entreprises";"CTD";"G2";"SC105";NA
+2025-12-09;"11:30";"13:00";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-12-09;"11:30";"13:00";"Compta des entreprises";"CTD";"G1";"SC102";NA
+2025-12-09;"14:00";"15:30";"ACSI";"CM";"";"SC101";"GARCIA   FRANCIS"
+2025-12-09;"15:45";"17:15";"Algo.et Types abstrait 1";"CTD";"G2";"SC101";NA
+2025-12-09;"15:45";"17:15";"ACSI";"TD";"G1";"SC102";"GARCIA   FRANCIS"
+2025-12-09;"17:30";"19:00";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2025-12-09;"17:30";"19:00";"ACSI";"TD";"G2";"TD015";"GARCIA   FRANCIS"
+2025-12-10;"08:00";"09:30";"ACSI";"CM";"";"SC102";"GARCIA   FRANCIS"
+2025-12-10;"09:45";"11:15";NA;NA;NA;"SC101";NA
+2025-12-10;"09:45";"11:15";"ACSI";"TD";"G2";"TD012";"GARCIA   FRANCIS"
+2025-12-10;"11:30";"13:00";"ACSI";"TD";"G1";"TD012";"GARCIA   FRANCIS"
+2025-12-10;"11:30";"13:00";NA;NA;NA;"SC101";NA
+2025-12-10;"14:00";"15:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-10;"14:00";"15:30";"Maths pour info";"CTD";"G1";"SC101";NA
+2025-12-10;"15:45";"17:15";"Maths pour info";"CTD";"G2";"SC101";NA
+2025-12-10;"15:45";"17:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-11;"08:00";"09:30";"Culture éco";"CM";"";"SC102";"LOPEZ   LYSIANE"
+2025-12-11;"09:45";"11:15";"Culture éco";"TD";"G2";"SC102";"LOPEZ   LYSIANE"
+2025-12-11;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"TP5";"BOURDON   ISABELLE"
+2025-12-11;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"TP5";NA
+2025-12-11;"11:30";"13:00";"Culture éco";"TD";"G1";"SC102";NA
+2025-12-12;"08:00";"09:30";NA;NA;NA;"SC101";NA
+2025-12-12;"09:45";"11:15";"Modélisation et stat";"CTD";"G1";"SC101";NA
+2025-12-12;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-12;"11:30";"13:00";"Modélisation et stat";"CTD";"G2";"SC101";"DIDIER   GILLES"
+2025-12-12;"11:30";"13:00";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-12;"14:00";"15:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-12;"14:00";"15:30";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2025-12-12;"15:45";"17:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-12;"15:45";"17:15";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2025-12-15;"08:00";"09:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-15;"08:00";"09:30";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-12-15;"09:45";"11:15";"Anglais TOEIC";"TD";"G2";"SC102";"GAUSSENS   NOEL"
+2025-12-15;"09:45";"11:15";"Anglais TOEIC";"TD";"G1";"TD012";NA
+2025-12-15;"11:30";"13:00";"Anglais TOEIC";"TD";"G1";"TD012";NA
+2025-12-15;"11:30";"13:00";"Anglais TOEIC";"TD";"G2";"SC102";"GAUSSENS   NOEL"
+2025-12-15;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"SC101";NA
+2025-12-15;"14:00";"15:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-15;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"SC101";"DIDIER   GILLES"
+2025-12-15;"15:45";"17:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-16;"08:00";"09:30";NA;NA;NA;"TP5";NA
+2025-12-16;"08:00";"09:30";"Culture éco";"TD";"G2";"SC102";"LOPEZ   LYSIANE"
+2025-12-16;"09:45";"11:15";NA;NA;NA;"TP5";NA
+2025-12-16;"09:45";"11:15";"Culture éco";"TD";"G1";"SC102";NA
+2025-12-16;"11:30";"13:00";NA;NA;NA;"SC102";NA
+2025-12-16;"14:00";"15:30";"Anglais S5";"TD";"G2";"SC101";"GAUSSENS   NOEL"
+2025-12-16;"14:00";"15:30";"Anglais S5";"TD";"G1";"SC102";"GOVUS   JANE"
+2025-12-16;"15:45";"17:15";"Anglais S5";"TD";"G1";"SC102";"GOVUS   JANE"
+2025-12-16;"15:45";"17:15";"Anglais S5";"TD";"G2";"SC101";"GAUSSENS   NOEL"
+2025-12-17;"08:00";"09:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-17;"08:00";"09:30";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2025-12-17;"09:45";"11:15";"Contreverses numériques";"CTD";"G1";"SC102";"BOURDON   ISABELLE"
+2025-12-17;"09:45";"11:15";NA;NA;NA;"SC101";NA
+2025-12-17;"11:30";"13:00";"Contreverses numériques";"CTD";"G2";"SC102";NA
+2025-12-17;"11:30";"13:00";NA;NA;NA;"SC101";NA
+2025-12-17;"13:45";"15:45";NA;NA;NA;"Amphi Peytavin";"CHAPELLIER   PHILIPPE"
+2025-12-18;"08:00";"09:30";"ACSI";"CM";"";"SC101";"GARCIA   FRANCIS"
+2025-12-18;"09:45";"11:15";"ACSI";"TD";"G2";"TD015";"GARCIA   FRANCIS"
+2025-12-18;"09:45";"11:15";"Culture éco";"TD";"G1";"SC101";NA
+2025-12-18;"11:30";"13:00";"ACSI";"TD";"G1";"SC102";"GARCIA   FRANCIS"
+2025-12-18;"11:30";"13:00";"Culture éco";"TD";"G2";"SC101";"LOPEZ   LYSIANE"
+2025-12-19;"08:00";"09:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-19;"08:00";"09:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-19;"09:45";"11:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2025-12-19;"09:45";"11:15";"Modélisation et stat";"CTD";"G1";"TD012";NA
+2025-12-19;"11:30";"13:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2025-12-19;"11:30";"13:00";"Modélisation et stat";"CTD";"G2";"TD012";"DIDIER   GILLES"
+2025-12-19;"14:00";"15:30";NA;NA;NA;"TP5";NA
+2025-12-19;"15:45";"17:15";NA;NA;NA;"TP5";"DEMANGE   LOIC"
+2026-01-05;"08:00";"09:30";NA;NA;NA;"TP4";NA
+2026-01-05;"08:00";"09:30";NA;NA;NA;"TP3";"FIORIO   CHRISTOPHE"
+2026-01-05;"09:45";"11:15";"Culture éco";"TD";"G1";"SC102";NA
+2026-01-05;"09:45";"11:15";"Gestion de projet";"TD";"G2";"TD012";"PREGET   ALEXANDRE"
+2026-01-05;"11:30";"13:00";"Culture éco";"TD";"G2";"SC102";"LOPEZ   LYSIANE"
+2026-01-05;"11:30";"13:00";"Gestion de projet";"TD";"G1";"TD012";NA
+2026-01-05;"14:00";"15:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-05;"14:00";"15:30";"Gestion de projet";"TD";"G2";"TD012";"PREGET   ALEXANDRE"
+2026-01-05;"15:45";"17:15";"Gestion de projet";"TD";"G1";"SC102";NA
+2026-01-05;"15:45";"17:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-06;"08:00";"09:30";"Intro à l'IA";"CM";"";"SC102";"LAURENT   ANNE"
+2026-01-06;"09:45";"11:15";NA;NA;NA;"SC101";"FIORIO   CHRISTOPHE"
+2026-01-06;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-06;"11:30";"13:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-06;"11:30";"13:00";NA;NA;NA;"SC101";NA
+2026-01-06;"14:00";"15:30";"Culture éco";"Exam";"";"SC101";"LOPEZ   LYSIANE"
+2026-01-06;"15:45";"17:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-06;"15:45";"17:15";NA;NA;NA;"TP4";"(Exported :13/01/2026 12:41)"
+2026-01-06;"17:15";"18:15";NA;NA;NA;"SC101";"(Exported :13/01/2026 12:41)"
+2026-01-07;"08:00";"09:30";"ACSI";"CM";"";"SC101";"GARCIA   FRANCIS"
+2026-01-07;"09:45";"11:15";"ACSI";"TD";"G1";"SC102";"GARCIA   FRANCIS"
+2026-01-07;"09:45";"11:15";NA;NA;NA;"SC101";NA
+2026-01-07;"11:30";"13:00";"ACSI";"TD";"G2";"SC102";"GARCIA   FRANCIS"
+2026-01-07;"11:30";"13:00";NA;NA;NA;"SC101";"FIORIO   CHRISTOPHE"
+2026-01-07;"14:00";"15:30";"Algo.et Types abstrait 1";"CTD";"G2";"SC101";"FIORIO   CHRISTOPHE"
+2026-01-07;"14:00";"15:30";NA;NA;NA;"TP3";NA
+2026-01-07;"15:45";"17:15";"Algo.et Types abstrait 1";"CTD";"G1";"SC101";NA
+2026-01-07;"15:45";"17:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-08;"08:00";"09:30";"ACSI";"CM";"";"SC102";"GARCIA   FRANCIS"
+2026-01-08;"09:45";"11:15";"ACSI";"TD";"G1";"TD012";"GARCIA   FRANCIS"
+2026-01-08;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-08;"11:30";"13:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-08;"11:30";"13:00";"ACSI";"TD";"G2";"SC101";"GARCIA   FRANCIS"
+2026-01-09;"08:00";"09:30";"Optim science données";"Exam";"";"Amphi Peytavin";NA
+2026-01-09;"09:45";"11:15";"Modélisation et stat";"CTD";"G1";"SC101";NA
+2026-01-09;"09:45";"11:15";"Intro à l'IA";"TD";"G2";"TP5";NA
+2026-01-09;"11:30";"13:00";"Modélisation et stat";"CTD";"G2";"SC101";"DIDIER   GILLES"
+2026-01-09;"11:30";"13:00";"Intro à l'IA";"TD";"G1";"TP5";NA
+2026-01-09;"14:00";"15:30";"Modélisation et stat";"CTD";"G1";"SC101";NA
+2026-01-09;"14:00";"15:30";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2026-01-09;"15:45";"17:15";NA;NA;NA;"TP5";"(Exported :13/01/2026 12:41)"
+2026-01-09;"15:45";"17:15";"Modélisation et stat";"CTD";"G2";"SC101";"DIDIER   GILLES"
+2026-01-12;"08:00";"09:30";NA;NA;NA;"TP3";"BERRY   VINCENT"
+2026-01-12;"08:00";"09:30";NA;NA;NA;"TP4";"FIORIO   CHRISTOPHE"
+2026-01-12;"09:45";"11:15";"Algo.et Types abstrait 1";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-01-12;"09:45";"11:15";"Gestion de projet";"TD";"G1";"SC102";NA
+2026-01-12;"11:30";"13:00";"Algo.et Types abstrait 1";"CTD";"G1";"TD012";NA
+2026-01-12;"11:30";"13:00";"Gestion de projet";"TD";"G2";"SC102";"PREGET   ALEXANDRE"
+2026-01-12;"14:00";"15:30";"Gestion de projet";"TD";"G1";"SC102";NA
+2026-01-12;"15:45";"17:15";"Gestion de projet";"TD";"G2";"SC102";"PREGET   ALEXANDRE"
+2026-01-12;"17:15";"18:45";NA;NA;NA;"SC101";NA
+2026-01-13;"08:00";"09:30";"Intro à l'IA";"CM";"";"SC101";"LAURENT   ANNE"
+2026-01-13;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-13;"11:30";"13:00";NA;NA;NA;"SC101";NA
+2026-01-13;"14:00";"15:30";"Gestion de projet";"CM";"";"SC101";NA
+2026-01-13;"15:45";"17:15";"Gestion de projet";"CM";"";"SC101";NA
+2026-01-14;"08:00";"09:30";"ACSI";"CM";"";"SC101";"GARCIA   FRANCIS"
+2026-01-14;"09:45";"11:15";"ACSI";"TD";"G1";"TD012";"GARCIA   FRANCIS"
+2026-01-14;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-14;"11:30";"13:00";"ACSI";"TD";"G2";"SC101";"GARCIA   FRANCIS"
+2026-01-14;"11:30";"13:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-14;"14:00";"15:30";"Intro à l'IA";"TD";"G1";"SC101";NA
+2026-01-14;"14:00";"15:30";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-14;"15:45";"17:15";"Intro à l'IA";"TD";"G2";"SC101";NA
+2026-01-14;"15:45";"17:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-15;"08:00";"09:30";"ACSI";"CM";"";"SC102";"GARCIA   FRANCIS"
+2026-01-15;"09:45";"11:15";"ACSI";"TD";"G1";"TD012";"GARCIA   FRANCIS"
+2026-01-15;"09:45";"11:15";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-15;"11:30";"13:00";NA;NA;NA;"TP3";"(Exported :13/01/2026 12:41)"
+2026-01-15;"11:30";"13:00";"ACSI";"TD";"G2";"SC101";"GARCIA   FRANCIS"
+2026-01-16;"08:00";"13:00";NA;NA;NA;"TP3";NA
+2026-01-16;"14:00";"15:30";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-19;"08:00";"09:30";"Gestion de projet";"CM";"";"SC102";"PREGET   ALEXANDRE"
+2026-01-19;"09:45";"11:15";"Gestion de projet";"TD";"G1";"SC101";NA
+2026-01-19;"11:30";"13:00";"Gestion de projet";"TD";"G2";"SC101";"PREGET   ALEXANDRE"
+2026-01-19;"14:00";"16:00";"Maths pour info";"Exam";"";"Amphi Peytavin";"GUERRINI   ELEONORA"
+2026-01-20;"08:00";"09:30";NA;NA;NA;"TP4";"BERRY   VINCENT"
+2026-01-20;"08:00";"09:30";NA;NA;NA;"TP3";"FIORIO   CHRISTOPHE"
+2026-01-20;"09:45";"11:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-20;"11:30";"13:00";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-20;"14:00";"17:00";"Algo.et Types abstrait 1";"Exam";"";"SC201";"FIORIO   CHRISTOPHE"
+2026-01-21;"09:45";"11:15";"ACSI";"TD";"G1";"TD015";"GARCIA   FRANCIS"
+2026-01-21;"09:45";"11:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-21;"11:30";"13:00";"ACSI";"TD";"G2";"SC102";"GARCIA   FRANCIS"
+2026-01-21;"11:30";"13:00";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-21;"14:00";"16:00";"Modélisation et stat";"Exam";"";"SC101";NA
+2026-01-22;"08:00";"09:30";"Gestion de projet";"CM";"";"SC101";"PREGET   ALEXANDRE"
+2026-01-22;"09:45";"11:15";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-22;"09:45";"11:15";"ACSI";"TD";"G1";"SC101";"GARCIA   FRANCIS"
+2026-01-22;"11:30";"13:00";NA;NA;NA;"TP6";"(Exported :13/01/2026 12:41)"
+2026-01-22;"11:30";"13:00";"ACSI";"TD";"G2";"TD012";"GARCIA   FRANCIS"
+2026-01-26;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-01-26;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-01-26;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-01-26;"14:00";"18:00";NA;NA;NA;"TP3";"BERRY   VINCENT"
+2026-01-28;"08:00";"20:00";NA;NA;NA;"";NA
+2026-01-29;"08:00";"20:00";NA;NA;NA;"";NA
+2026-01-30;"08:00";"20:00";NA;NA;NA;"";NA
+2026-01-31;"08:00";"20:00";NA;NA;NA;"";NA
+2026-02-02;"08:00";"09:30";"Réseaux";"CM";"";"SC102";NA
+2026-02-02;"09:45";"11:15";"Analyse données multi";"CTD";"G2";"SC101";NA
+2026-02-02;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-02;"11:30";"13:00";"Analyse données multi";"CTD";"G1";"SC101";NA
+2026-02-02;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-03;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC102";"CHAPELLIER   PHILIPPE"
+2026-02-03;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"TD012";NA
+2026-02-03;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-03;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-03;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"TD012";NA
+2026-02-03;"14:00";"15:30";"Enquête RH";"TD";"G1";"TD012";NA
+2026-02-03;"14:00";"15:30";"Réseaux";"TD";"G2";"TP3";"NOIZET   MATHIEU"
+2026-02-03;"15:45";"17:15";"Réseaux";"TD";"G1";"TP3";"NOIZET   MATHIEU"
+2026-02-03;"15:45";"17:15";"Enquête RH";"TD";"G2";"TD012";NA
+2026-02-04;"08:45";"10:15";"Python et qualité log.";"CTD";"G1";"TP3";"RAOUFI   ENSIYEH"
+2026-02-04;"08:45";"10:15";"Enquête RH";"TD";"G2";"SC102";NA
+2026-02-04;"10:30";"12:00";"Enquête RH";"TD";"G1";"SC102";NA
+2026-02-04;"10:30";"12:00";"Python et qualité log.";"CTD";"G2";"TP3";"RAOUFI   ENSIYEH"
+2026-02-04;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-04;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-04;"14:45";"16:15";"Analyse données multi";"CTD";"G2";"TD012";NA
+2026-02-04;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-04;"16:30";"18:00";"Analyse données multi";"CTD";"G1";"TD012";NA
+2026-02-05;"08:00";"09:30";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-02-05;"09:45";"11:15";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-02-06;"08:00";"09:30";"Réseaux";"CM";"";"SC101";NA
+2026-02-06;"09:45";"11:15";"Python et qualité log.";"CTD";"G2";"TP4";"RAOUFI   ENSIYEH"
+2026-02-06;"09:45";"11:15";"Réseaux";"TD";"G1";"TP3";"NOIZET   MATHIEU"
+2026-02-06;"11:30";"13:00";"Python et qualité log.";"CTD";"G1";"TP4";"RAOUFI   ENSIYEH"
+2026-02-06;"11:30";"13:00";"Réseaux";"TD";"G2";"TP3";"NOIZET   MATHIEU"
+2026-02-09;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-09;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-09;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-09;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-09;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-09;"14:00";"15:30";"Python et qualité log.";"CTD";"G1";"TP3";"RAOUFI   ENSIYEH"
+2026-02-09;"15:45";"17:15";"Python et qualité log.";"CTD";"G2";"TP3";"RAOUFI   ENSIYEH"
+2026-02-10;"09:45";"11:15";"Communication écrite";"TD";"G1";"TD012";NA
+2026-02-10;"09:45";"11:15";"Analyse données multi";"CTD";"G2";"TD015";NA
+2026-02-10;"11:30";"13:00";"Analyse données multi";"CTD";"G1";"TD015";NA
+2026-02-10;"11:30";"13:00";"Communication écrite";"TD";"G2";"TD012";NA
+2026-02-10;"14:00";"15:30";"Enquête RH";"TD";"G1";"SC101";NA
+2026-02-10;"14:00";"15:30";"Réseaux";"TD";"G2";"TP3";"NOIZET   MATHIEU"
+2026-02-10;"15:45";"17:15";"Enquête RH";"TD";"G2";"SC101";NA
+2026-02-10;"15:45";"17:15";"Réseaux";"TD";"G1";"TP3";"NOIZET   MATHIEU"
+2026-02-11;"08:00";"09:30";"Python et qualité log.";"CTD";"G1";"TP3";"RAOUFI   ENSIYEH"
+2026-02-11;"08:00";"09:30";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-11;"09:45";"11:15";"Python et qualité log.";"CTD";"G2";"TP3";"RAOUFI   ENSIYEH"
+2026-02-11;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-11;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-11;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-11;"14:45";"16:15";"Analyse données multi";"CTD";"G2";"TD012";NA
+2026-02-11;"16:30";"18:00";"Analyse données multi";"CTD";"G1";"TD012";NA
+2026-02-11;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-12;"08:00";"09:30";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-02-12;"09:45";"11:15";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-02-12;"11:30";"13:00";"Communication écrite";"TD";"G1";"SC102";NA
+2026-02-13;"08:00";"09:30";"Réseaux";"CM";"";"SC102";NA
+2026-02-13;"09:45";"11:15";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-02-13;"11:30";"13:00";NA;NA;NA;"TP3";NA
+2026-02-13;"14:00";"15:30";"Python et qualité log.";"CTD";"G1";"TP3";"RAOUFI   ENSIYEH"
+2026-02-13;"15:45";"17:15";"Python et qualité log.";"CTD";"G2";"TP3";"RAOUFI   ENSIYEH"
+2026-02-16;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-16;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-16;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-16;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-16;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-16;"14:00";"15:30";"Enquête RH";"TD";"G1";"SC102";NA
+2026-02-16;"14:00";"15:30";NA;NA;NA;"TP4";NA
+2026-02-16;"15:45";"17:15";NA;NA;NA;"TP4";"NOIZET   MATHIEU"
+2026-02-16;"15:45";"17:15";"Enquête RH";"TD";"G2";"SC102";NA
+2026-02-17;"09:45";"11:15";"Analyse données multi";"CTD";"G2";"TD015";NA
+2026-02-17;"09:45";"11:15";"Communication écrite";"TD";"G1";"TD012";NA
+2026-02-17;"11:30";"13:00";"Analyse données multi";"CTD";"G1";"SC102";NA
+2026-02-17;"11:30";"13:00";"Communication écrite";"TD";"G2";"TD012";NA
+2026-02-17;"14:00";"15:30";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-02-17;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2026-02-18;"08:00";"09:30";"Algo.et Types abstrait 2";"CTD";"G2";"SC101";"FIORIO   CHRISTOPHE"
+2026-02-18;"08:00";"09:30";"Python et qualité log.";"CTD";"G1";"TP6";"RAOUFI   ENSIYEH"
+2026-02-18;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"SC101";"FIORIO   CHRISTOPHE"
+2026-02-18;"09:45";"11:15";"Python et qualité log.";"CTD";"G2";"TP6";"RAOUFI   ENSIYEH"
+2026-02-18;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-18;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-18;"14:45";"16:15";"Analyse données multi";"CTD";"G2";"TD015";NA
+2026-02-18;"16:30";"18:00";"Analyse données multi";"CTD";"G1";"TD015";NA
+2026-02-18;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-19;"08:00";"09:30";NA;NA;NA;"SC102";"WEMYSS   CAROLINE"
+2026-02-19;"09:45";"11:15";NA;NA;NA;"SC102";"WEMYSS   CAROLINE"
+2026-02-19;"11:30";"13:00";"Communication écrite";"TD";"G2";"SC102";NA
+2026-02-23;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-23;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-23;"09:45";"11:15";"Python et qualité log.";"CTD";"G2";"TP3";"RAOUFI   ENSIYEH"
+2026-02-23;"11:30";"13:00";"Python et qualité log.";"CTD";"G1";"TP3";"RAOUFI   ENSIYEH"
+2026-02-23;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-24;"09:45";"11:15";NA;NA;NA;"TP3";NA
+2026-02-24;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-02-24;"11:30";"13:00";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-02-24;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-02-25;"08:00";"09:30";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-25;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-02-25;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-02-25;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-02-25;"14:45";"16:15";"Analyse données multi";"CTD";"G2";"TD012";"TOULEMONDE   GWLADYS"
+2026-02-25;"16:30";"18:00";"Analyse données multi";"CTD";"G1";"TD012";"TOULEMONDE   GWLADYS"
+2026-02-25;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-02-26;"08:00";"09:30";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-02-26;"09:45";"11:15";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-02-27;"08:00";"09:30";"Réseaux";"CM";"";"SC101";NA
+2026-02-27;"09:45";"11:15";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-02-27;"11:30";"13:00";NA;NA;NA;"TP3";NA
+2026-03-09;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-09;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-03-09;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-09;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-03-09;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-09;"14:00";"15:30";NA;NA;NA;"SC101";"NOIZET   MATHIEU"
+2026-03-09;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2026-03-10;"09:45";"11:15";"Analyse données multi";"CTD";"G2";"TD015";"TOULEMONDE   GWLADYS"
+2026-03-10;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-10;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-10;"11:30";"13:00";"Analyse données multi";"CTD";"G1";"TD015";"TOULEMONDE   GWLADYS"
+2026-03-10;"14:00";"16:15";"Contrôle de gestion";"Exam";"";"Amphi Peytavin";NA
+2026-03-11;"08:45";"10:15";"Analyse données multi";"CTD";"G1";"TD012";"TOULEMONDE   GWLADYS"
+2026-03-11;"10:30";"12:00";"Analyse données multi";"CTD";"G2";"TD012";"TOULEMONDE   GWLADYS"
+2026-03-11;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-11;"14:45";"16:15";"Communication orale";"TD";"G2";"SC102";"DUMAS   MARC"
+2026-03-11;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-03-11;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-03-11;"16:30";"18:00";"Communication orale";"TD";"G1";"SC102";NA
+2026-03-12;"09:00";"12:00";NA;NA;NA;"";NA
+2026-03-12;"14:00";"17:00";NA;NA;NA;"";NA
+2026-03-13;"08:00";"09:30";"Python et qualité log.";"CTD";"G2";"TP5";NA
+2026-03-13;"09:45";"11:15";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-03-13;"09:45";"11:15";"Python et qualité log.";"CTD";"G2";"TP6";NA
+2026-03-13;"11:30";"13:00";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-03-13;"11:30";"13:00";"Python et qualité log.";"CTD";"G2";"TP6";NA
+2026-03-16;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-16;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-03-16;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-03-16;"14:00";"15:30";"Communication orale";"TD";"G1";"SC102";NA
+2026-03-16;"14:00";"15:30";"Enquête RH";"TD";"G2";"TD012";NA
+2026-03-16;"15:45";"17:15";"Enquête RH";"TD";"G1";"TD012";NA
+2026-03-16;"15:45";"17:15";"Communication orale";"TD";"G2";"SC102";"DUMAS   MARC"
+2026-03-17;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-17;"09:45";"11:15";"Analyse données multi";"CTD";"G2";"TD015";"TOULEMONDE   GWLADYS"
+2026-03-17;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-17;"11:30";"13:00";"Analyse données multi";"CTD";"G1";"TD015";"TOULEMONDE   GWLADYS"
+2026-03-17;"14:00";"15:30";"Algo.et Types abstrait 2";"CTD";"G2";"SC102";"FIORIO   CHRISTOPHE"
+2026-03-17;"14:00";"15:30";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-03-17;"15:45";"17:15";"Algo.et Types abstrait 2";"CTD";"G1";"SC102";"FIORIO   CHRISTOPHE"
+2026-03-17;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2026-03-18;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-18;"14:45";"16:15";"Analyse données multi";"CTD";"G2";"TD012";"TOULEMONDE   GWLADYS"
+2026-03-18;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-03-18;"16:30";"18:00";"Analyse données multi";"CTD";"G1";"TD012";"TOULEMONDE   GWLADYS"
+2026-03-18;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-03-19;"08:00";"09:30";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-03-19;"09:45";"11:15";NA;NA;NA;"SC101";"WEMYSS   CAROLINE"
+2026-03-20;"08:00";"09:30";"Python et qualité log.";"CTD";"G1";"TP5";NA
+2026-03-20;"09:45";"11:15";NA;NA;NA;"SC102";NA
+2026-03-20;"09:45";"11:15";"Python et qualité log.";"CTD";"G1";"TP3";NA
+2026-03-20;"11:30";"13:00";"Python et qualité log.";"CTD";"G1";"TP6";NA
+2026-03-20;"11:30";"13:00";NA;NA;NA;"TP3";NA
+2026-03-23;"08:00";"09:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-23;"09:45";"11:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-03-23;"11:30";"13:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-03-23;"14:00";"15:30";NA;NA;NA;"TP3";NA
+2026-03-23;"14:00";"15:30";"Enquête RH";"TD";"G1";"TD012";NA
+2026-03-23;"15:45";"17:15";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-03-23;"15:45";"17:15";"Enquête RH";"TD";"G2";"TD012";NA
+2026-03-24;"09:45";"11:15";"Communication orale";"TD";"G2";"TD015";"DUMAS   MARC"
+2026-03-24;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-24;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-24;"11:30";"13:00";"Communication orale";"TD";"G1";"TD015";NA
+2026-03-24;"14:00";"15:30";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-24;"15:45";"17:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-25;"13:00";"14:30";"Contrôle de gestion";"CM";"";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-25;"14:45";"16:15";"Analyse données multi";"CTD";"G2";"TD012";"TOULEMONDE   GWLADYS"
+2026-03-25;"14:45";"16:15";"Contrôle de gestion";"CTD";"G1";"SC101";NA
+2026-03-25;"16:30";"18:00";"Analyse données multi";"CTD";"G1";"TD012";"TOULEMONDE   GWLADYS"
+2026-03-25;"16:30";"18:00";"Contrôle de gestion";"CTD";"G2";"SC101";NA
+2026-03-26;"08:00";"09:30";NA;NA;NA;"SC101\,SC102";NA
+2026-03-26;"09:45";"11:15";NA;NA;NA;"SC101\,SC102";NA
+2026-03-26;"14:00";"17:00";NA;NA;NA;"SC201";NA
+2026-03-27;"09:45";"11:15";NA;NA;NA;"TP3";NA
+2026-03-27;"09:45";"11:15";"Communication écrite";"TD";"G1";"SC101";NA
+2026-03-27;"11:30";"13:00";"Communication écrite";"TD";"G2";"SC101";NA
+2026-03-27;"11:30";"13:00";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-03-30;"08:00";"09:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-03-30;"09:45";"11:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-03-30;"11:30";"13:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-03-31;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-31;"09:45";"11:15";"Communication orale";"TD";"G2";"SC102";"DUMAS   MARC"
+2026-03-31;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-31;"11:30";"13:00";"Communication orale";"TD";"G1";"SC101";NA
+2026-03-31;"14:00";"15:30";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-03-31;"14:00";"15:30";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-03-31;"15:45";"17:15";NA;NA;NA;"TP3";NA
+2026-03-31;"15:45";"17:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-01;"13:00";"14:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-04-01;"14:45";"16:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-01;"16:30";"18:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-02;"08:00";"09:30";"Anglais";"TD";"G1";"SC102";NA
+2026-04-02;"08:00";"09:30";"Anglais";"TD";"G2";"SC101";NA
+2026-04-02;"09:45";"11:15";"Anglais";"TD";"G2";"SC101";NA
+2026-04-02;"09:45";"11:15";"Anglais";"TD";"G1";"SC102";NA
+2026-04-03;"09:45";"12:00";"Contrôle de gestion";"Exam";"";"Amphi Peytavin";NA
+2026-04-03;"13:00";"14:30";NA;NA;NA;"TP3";"NOIZET   MATHIEU"
+2026-04-03;"14:45";"16:15";NA;NA;NA;"TP3";NA
+2026-04-07;"08:00";"09:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-04-07;"09:45";"11:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-07;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-07;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-07;"11:30";"13:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-08;"08:45";"10:15";"Algo.et Types abstrait 2";"CTD";"G2";"SC101";"FIORIO   CHRISTOPHE"
+2026-04-08;"10:30";"12:00";"Algo.et Types abstrait 2";"CTD";"G1";"SC101";"FIORIO   CHRISTOPHE"
+2026-04-08;"13:00";"14:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-04-08;"14:45";"16:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-08;"16:30";"18:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-09;"08:00";"09:30";"Anglais";"TD";"G1";"SC101";NA
+2026-04-09;"08:00";"09:30";"Anglais";"TD";"G2";"SC102";NA
+2026-04-09;"09:45";"11:15";"Anglais";"TD";"G2";"SC102";NA
+2026-04-09;"09:45";"11:15";"Anglais";"TD";"G1";"SC101";NA
+2026-04-10;"08:00";"09:30";NA;NA;NA;"TD015";"TOULEMONDE   GWLADYS"
+2026-04-10;"09:45";"11:15";NA;NA;NA;"SC102";"TOULEMONDE   GWLADYS"
+2026-04-10;"09:45";"11:15";"Communication orale";"TD";"G1";"TD012";NA
+2026-04-10;"11:30";"13:00";"Communication orale";"TD";"G2";"TD012";"DUMAS   MARC"
+2026-04-10;"14:00";"15:30";NA;NA;NA;"TD015";NA
+2026-04-10;"15:45";"17:15";NA;NA;NA;"TD015";NA
+2026-04-13;"08:00";"09:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-04-13;"09:45";"11:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-13;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-13;"11:30";"13:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-13;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-14;"09:45";"11:15";"Algo.et Types abstrait 2";"CTD";"G1";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-14;"11:30";"13:00";"Algo.et Types abstrait 2";"CTD";"G2";"TD012";"FIORIO   CHRISTOPHE"
+2026-04-15;"13:00";"14:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-04-15;"14:45";"16:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-15;"16:30";"18:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-16;"08:00";"09:30";"Anglais";"TD";"G1";"SC102";NA
+2026-04-16;"08:00";"09:30";"Anglais";"TD";"G2";"SC101";NA
+2026-04-16;"09:45";"11:15";"Anglais";"TD";"G2";"SC101";NA
+2026-04-16;"09:45";"11:15";"Anglais";"TD";"G1";"SC102";NA
+2026-04-17;"09:45";"11:15";"Communication orale";"TD";"G1";"SC101";NA
+2026-04-17;"11:30";"13:00";"Communication orale";"TD";"G2";"SC101";"DUMAS   MARC"
+2026-04-20;"09:45";"11:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-20;"11:30";"13:00";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-04-20;"14:00";"15:30";"Communication orale";"TD";"G2";"TD012";"DUMAS   MARC"
+2026-04-20;"15:30";"17:00";"Communication orale";"TD";"G1";"TD012";NA
+2026-04-22;"08:00";"09:30";"Bases ML et LLM";"CM";"";"SC102";"FRAZZOLI   GINO"
+2026-04-22;"09:45";"11:15";"Bases ML et LLM";"TD";"G1";"SC101";NA
+2026-04-22;"11:30";"13:00";"Bases ML et LLM";"TD";"G2";"SC101";NA
+2026-04-22;"14:00";"15:30";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-22;"15:45";"17:15";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-04-23;"08:00";"09:30";"Anglais";"TD";"G1";"SC101";NA
+2026-04-23;"08:00";"09:30";"Anglais";"TD";"G2";"SC102";NA
+2026-04-23;"09:45";"11:15";"Anglais";"TD";"G2";"SC102";NA
+2026-04-23;"09:45";"11:15";"Anglais";"TD";"G1";"SC101";NA
+2026-05-04;"08:00";"09:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-05-04;"09:45";"11:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-05-04;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"SC102";NA
+2026-05-04;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"SC102";NA
+2026-05-04;"11:30";"13:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-05-05;"09:45";"11:15";"Communication écrite";"TD";"G1";"SC102";NA
+2026-05-05;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-05;"11:30";"13:00";"Communication écrite";"TD";"G2";"SC102";NA
+2026-05-05;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-06;"13:00";"14:30";"Théorie des organisations";"CM";"";"SC101";NA
+2026-05-06;"14:45";"16:15";"Théorie des organisations";"TD";"G1";"SC101";"CHAPELLIER   PHILIPPE"
+2026-05-06;"16:30";"18:00";"Théorie des organisations";"TD";"G2";"SC101";NA
+2026-05-07;"08:00";"09:30";"Anglais";"TD";"G2";"SC101";NA
+2026-05-07;"08:00";"09:30";"Anglais";"TD";"G1";"SC102";NA
+2026-05-07;"09:45";"11:15";"Anglais";"TD";"G1";"SC102";NA
+2026-05-07;"09:45";"11:15";"Anglais";"TD";"G2";"SC101";NA
+2026-05-11;"09:45";"11:15";"Graphes et algo";"CTD";"G1";"SC102";NA
+2026-05-11;"11:30";"13:00";"Graphes et algo";"CTD";"G2";"SC102";NA
+2026-05-12;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"TD012";NA
+2026-05-12;"09:45";"11:15";"Communication écrite";"TD";"G1";"SC101";NA
+2026-05-12;"11:30";"13:00";"Communication écrite";"TD";"G2";"SC102";NA
+2026-05-12;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"TD012";NA
+2026-05-12;"14:00";"15:30";"Théorie des organisations";"Exam";"";"Amphi Peytavin";NA
+2026-05-13;"08:00";"09:30";"Bases ML et LLM";"CM";"";"SC101";"FRAZZOLI   GINO"
+2026-05-13;"09:45";"11:15";"Communication orale";"TD";"G1";"SC102";NA
+2026-05-13;"09:45";"11:15";"Bases ML et LLM";"TD";"G2";"SC101";NA
+2026-05-13;"11:30";"13:00";"Bases ML et LLM";"TD";"G1";"SC102";NA
+2026-05-13;"11:30";"13:00";"Communication orale";"TD";"G2";"SC101";"DUMAS   MARC"
+2026-05-13;"14:00";"15:30";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-13;"15:45";"17:15";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-18;"09:45";"11:15";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-18;"11:30";"13:00";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-19;"09:45";"11:15";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-19;"11:30";"13:00";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-20;"08:00";"09:30";"Bases ML et LLM";"CM";"";"SC101";"FRAZZOLI   GINO"
+2026-05-20;"09:45";"11:15";"Bases ML et LLM";"TD";"G2";"SC102";NA
+2026-05-20;"09:45";"11:15";"Communication orale";"TD";"G1";"SC101";NA
+2026-05-20;"11:30";"13:00";"Communication orale";"TD";"G2";"SC101";"DUMAS   MARC"
+2026-05-20;"11:30";"13:00";"Bases ML et LLM";"TD";"G1";"SC102";NA
+2026-05-20;"14:00";"15:30";"Graphes et algo";"CTD";"G2";"SC102";NA
+2026-05-20;"14:00";"15:30";"Communication orale";"TD";"G1";"SC101";NA
+2026-05-20;"15:45";"17:15";"Communication orale";"TD";"G2";"SC102";"DUMAS   MARC"
+2026-05-20;"15:45";"17:15";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-21;"09:45";"11:15";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-21;"11:30";"13:00";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-26;"09:45";"11:15";"Communication écrite";"TD";"G1";"TD012";NA
+2026-05-26;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-26;"11:30";"13:00";"Communication écrite";"TD";"G2";"TD012";NA
+2026-05-26;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-27;"08:00";"09:30";"Bases ML et LLM";"CM";"";"SC102";"FRAZZOLI   GINO"
+2026-05-27;"09:45";"11:15";"Bases ML et LLM";"TD";"G1";"SC102";NA
+2026-05-27;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-05-27;"11:30";"13:00";"Bases ML et LLM";"TD";"G2";"SC102";NA
+2026-05-27;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-05-29;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"SC102";NA
+2026-05-29;"09:45";"11:15";"Communication écrite";"TD";"G1";"SC101";NA
+2026-05-29;"11:30";"13:00";"Communication écrite";"TD";"G2";"SC101";NA
+2026-05-29;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"SC102";NA
+2026-06-02;"09:45";"11:15";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-06-02;"11:30";"13:00";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-06-03;"08:00";"09:30";"Bases ML et LLM";"CM";"";"SC102";"FRAZZOLI   GINO"
+2026-06-03;"09:45";"11:15";"Bases ML et LLM";"TD";"G1";"SC102";NA
+2026-06-03;"09:45";"11:15";"Graphes et algo";"CTD";"G2";"SC101";NA
+2026-06-03;"11:30";"13:00";"Graphes et algo";"CTD";"G1";"SC101";NA
+2026-06-03;"11:30";"13:00";"Bases ML et LLM";"TD";"G2";"SC102";NA

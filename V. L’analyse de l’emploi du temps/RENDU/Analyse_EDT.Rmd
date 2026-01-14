@@ -1,0 +1,209 @@
+Vérification préalable de la régression logistique
+```{r}
+library(readxl)
+
+# Préparation du jeu de données pour les diagnostics 
+df_diag <- read_excel("Registre_Absences_Sessions.xlsx") %>%
+  mutate(type_cours_clean = case_when(
+    type_cours %in% c("CMTD", "TD") ~ "TD",
+    type_cours %in% c("CM/CMTD", "CM") ~ "CM",
+    type_cours == "TP" ~ "TP",
+    TRUE ~ type_cours 
+  )) %>%
+  filter(type_cours_clean != "PROJ") %>%
+  group_by(date, heure, code_cours, type_cours_clean) %>% 
+  summarise(nb_absences = n(), .groups = 'drop')
+
+seuil_diag <- median(df_diag$nb_absences)
+df_diag$alerte <- ifelse(df_diag$nb_absences > seuil_diag, 1, 0)
+
+#1. Équilibre de la variable cible 
+tableau_alerte <- table(df_diag$alerte)
+print(prop.table(tableau_alerte)) 
+
+# 2. Analyse des taux d'alerte par catégorie 
+separation <- df_diag %>%
+  group_by(type_cours_clean) %>%
+  summarise(taux_alerte = mean(alerte), effectif = n())
+print(separation) 
+```
+
+
+
+L’absentéisme en fonction du type de cours par Régression Logistique
+```{r}
+library(readxl)
+
+# 1 grégation par séance unique et définition du seuil (Médiane) 
+df <- read_excel("Registre_Absences_Sessions.xlsx")
+
+absences_par_cours <- df %>%
+  mutate(type_cours_clean = case_when(
+    type_cours %in% c("CMTD", "TD") ~ "TD",
+    type_cours %in% c("CM/CMTD", "CM") ~ "CM",
+    type_cours == "TP" ~ "TP",
+    TRUE ~ type_cours 
+  )) %>%
+  filter(type_cours_clean != "PROJ") %>%
+  group_by(date, heure, code_cours, type_cours_clean) %>% 
+  summarise(nb_absences = n(), .groups = 'drop')
+
+seuil <- median(absences_par_cours$nb_absences)
+absences_par_cours <- absences_par_cours %>%
+  mutate(alerte = ifelse(nb_absences > seuil, 1, 0))
+
+# 2 Regression logistique 
+modele_log <- glm(alerte ~ type_cours_clean, 
+                  data = absences_par_cours, 
+                  family = binomial(link = "logit"))
+
+summary(modele_log)
+exp(coef(modele_log)) # Odds Ratios
+
+# 3 Matrice de confusion
+cat("\n matrice de confusion \n" )
+absences_par_cours$prob_predite <- predict(modele_log, type = "response")
+table(Réalité = absences_par_cours$alerte, 
+      Prédiction = ifelse(absences_par_cours$prob_predite > 0.5, 1, 0))
+```
+
+
+
+Analyse de l’emploi du temps, lien entre le volume journalier, Régression Linéaire Multiple
+
+```{r}
+# Fusion Emploi du temps + Absences (Jusqu'au 03/12) 
+ig3 <- read.csv2("Stats_Quotidiennes_DaMS3.csv") %>% mutate(Groupe = "DaMS3")
+ig4 <- read.csv2("Stats_Quotidiennes_DaMS4.csv") %>% mutate(Groupe = "DaMS4")
+ig5 <- read.csv2("Stats_Quotidiennes_DaMS5.csv") %>% mutate(Groupe = "DaMS5")
+
+df_etude <- bind_rows(ig3, ig4, ig5) %>%
+  mutate(Date = as.Date(Date), Total_Heures_Cours = as.numeric(Total_Heures_Cours),
+         nombre_absents = as.numeric(nombre_absents)) %>%
+  filter(Date <= as.Date("2025-12-03") & nombre_absents != 9)
+
+#Régression Linéaire Multiple
+modele_multiple <- lm(nombre_absents ~ Total_Heures_Cours + Groupe, data = df_etude)
+summary(modele_multiple)
+```
+
+L’impact des heures creuses, regression lineaire simple
+```{r}
+# Analyse des Heures Creuses 
+df_creuses <- df_etude %>% mutate(Heures_Creuses = as.numeric(Amplitude) - Total_Heures_Cours)
+summary(lm(nombre_absents ~ Heures_Creuses, data = df_creuses))
+
+
+```
+
+
+Histogramme Moyenne des absences selon le volume horaire,Analyse comparative par promotion
+
+```{r}
+
+ig3 <- read.csv2("Stats_Quotidiennes_DaMS3.csv") %>% mutate(Groupe = "DaMS3")
+ig4 <- read.csv2("Stats_Quotidiennes_DaMS3.csv") %>% mutate(Groupe = "DaMS4")
+ig5 <- read.csv2("Stats_Quotidiennes_DaMS3.csv") %>% mutate(Groupe = "DaMS5")
+
+heures_types <- c(1.5, 3, 4.5, 6, 7.5, 9)
+
+df_bilan <- bind_rows(ig3, ig4, ig5) %>%
+  mutate(Date = as.Date(Date), Total_Heures_Cours = as.numeric(Total_Heures_Cours),
+         nombre_absents = as.numeric(nombre_absents)) %>%
+  filter(Date <= as.Date("2025-12-03") & Total_Heures_Cours %in% heures_types) %>%
+  group_by(Groupe, Total_Heures_Cours) %>%
+  summarise(Moyenne_Absents = mean(nombre_absents), .groups = 'drop')
+
+# --- GRAPHIQUE ---
+ggplot(df_bilan, aes(x = factor(Total_Heures_Cours), y = Moyenne_Absents, fill = Groupe)) +
+  geom_col(position = position_dodge(preserve = "single"), alpha = 0.85) +
+  geom_text(aes(label = round(Moyenne_Absents, 1)), 
+            position = position_dodge(0.9), vjust = -0.5, size = 3.5, fontface = "bold") +
+  scale_fill_manual(values = c("DaMS3" = "red", "DaMS4" = "blue", "DaMS5" = "green")) +
+  labs(title = "Moyenne des absences selon le volume horaire",
+       subtitle = "Analyse comparative par promotion",
+       x = "Volume horaire de la journée (heures)",
+       y = "Nombre moyen d'étudiants absents") +
+  theme_minimal()
+```
+
+Histogramme Impact du Volume Horaire sur l'Absentéisme Global
+```{r}
+df_bilan_global <- df_global_prep %>%
+  filter(Heures_Cours_Jour %in% heures_interessantes) %>%
+  group_by(Heures_Cours_Jour) %>%
+  summarise(Moyenne_Absents_Global = mean(Total_Absents_Jour), .groups = 'drop')
+
+ggplot(df_bilan_global, aes(x = factor(Heures_Cours_Jour), y = Moyenne_Absents_Global)) +
+  geom_col(fill = "grey", alpha = 0.8) +
+  geom_text(aes(label = round(Moyenne_Absents_Global, 1)), vjust = -0.5, size = 5, fontface = "bold") +
+  labs(title = "Impact du Volume Horaire sur l'Absentéisme Global",
+       x = "Volume horaire de la journée (en heures)",
+       y = "Moyenne du total des absents (DaMS 3, 4 et 5)") +
+  theme_minimal()
+```
+
+Ce graphique type "nuage de points" montre l'amplitude de la journée par rapport aux heures de cours réelles.
+
+```{r}
+df_simple <- bind_rows(ig3, ig4, ig5) %>%
+  mutate(Date = as.Date(Date), Total_Heures_Cours = as.numeric(Total_Heures_Cours),
+         Amplitude = as.numeric(Amplitude)) %>%
+  filter(Date <= as.Date("2025-12-03") & Amplitude > 0)
+
+ggplot(df_simple, aes(x = Total_Heures_Cours, y = Amplitude)) +
+  geom_jitter(alpha = 0.4, color = "grey", width = 0.1, height = 0.1) +
+  geom_abline(intercept = 1, slope = 1, linetype = "dashed", color = "red", size = 0.8) +
+  scale_x_continuous(breaks = seq(0, 10, 2)) +
+  scale_y_continuous(breaks = seq(0, 12, 2)) +
+  labs(title = "Répartition des cours et temps morts",
+       x = "Heures de cours",
+       y = "Amplitude de la journée") +
+  theme_minimal()
+```
+
+IMPACT DES EXAMENS (ANALYSE PAR PROMOTION)
+```{r}
+
+get_exam_promo <- function(file, label) {
+  read.csv2(file) %>%
+    mutate(Date = as.Date(Date)) %>%
+    filter(str_detect(toupper(Type_Cours), "EXAM")) %>%
+    group_by(Date) %>%
+    summarise(Nb_Examens = n(), .groups = 'drop') %>%
+    mutate(Groupe = label)
+}
+
+exam_data_promo <- bind_rows(
+  get_exam_promo("EDT_Nettoye_DaMS3.csv", "DaMS3"),
+  get_exam_promo("EDT_Nettoye_DaMS4.csv", "DaMS4"),
+  get_exam_promo("EDT_Nettoye_DaMS5.csv", "DaMS5")
+)
+
+df_final_exam_promo <- df_etude %>%
+  left_join(exam_data_promo, by = c("Date", "Groupe")) %>%
+  mutate(Nb_Examens = replace_na(Nb_Examens, 0))
+
+print("--- RÉGRESSION DaMS 3 ---")
+summary(lm(nombre_absents ~ Nb_Examens, data = filter(df_final_exam_promo, Groupe == "DaMS3")))
+
+print("--- RÉGRESSION DaMS 4 ---")
+summary(lm(nombre_absents ~ Nb_Examens, data = filter(df_final_exam_promo, Groupe == "DaMS4")))
+
+print("--- RÉGRESSION DaMS 5 ---")
+summary(lm(nombre_absents ~ Nb_Examens, data = filter(df_final_exam_promo, Groupe == "DaMS5")))
+
+# graphique avec nombre d'absent en fonction du jour et qui affiche avec ne barre rouge les examens
+ggplot(df_final_exam_promo, aes(x = Date)) +
+  geom_col(aes(y = Nb_Examens*3), fill = "red", alpha = 0.6) +
+  geom_line(aes(y = nombre_absents), color = "blue", size = 0.8) +
+  geom_point(aes(y = nombre_absents), color = "blue", size = 1.5) +
+  facet_wrap(~Groupe, ncol = 1, scales = "free_y") +
+  labs(
+    title = "Absences vs Examens par Promotion",
+    subtitle = "Justification du manque de données synchronisées",
+    x = "Période (Septembre - Décembre 2025)",
+    y = "Quantité"
+  ) +
+  theme_minimal()
+```
