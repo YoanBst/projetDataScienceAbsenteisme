@@ -1,0 +1,57 @@
+Préparation et Diagnostics (Fiabilité)
+```{r}
+library(readxl)
+library(dplyr)
+
+# 1. Chargement et Agrégation par séance unique 
+df <- read_excel("Final_Cleaned_Absences_date.xlsx")
+
+absences_par_cours <- df %>%
+  mutate(type_cours_clean = case_when(
+    type_cours %in% c("CMTD", "TD") ~ "TD",
+    type_cours %in% c("CM/CMTD", "CM") ~ "CM",
+    type_cours == "TP" ~ "TP",
+    TRUE ~ type_cours 
+  )) %>%
+  filter(type_cours_clean != "PROJ") # Exclusion de la valeur extrême "PROJ"
+
+absences_par_cours <- absences_par_cours %>%
+  group_by(date, heure, code_cours, type_cours_clean) %>% 
+  summarise(nb_absences = n(), .groups = 'drop')
+
+# 2. Définition du seuil objectif (La médiane)
+seuil <- median(absences_par_cours$nb_absences)
+absences_par_cours <- absences_par_cours %>%
+  mutate(alerte = ifelse(nb_absences > seuil, 1, 0))
+
+
+# Équilibre de la variable cible
+print("--- ÉQUILIBRE DE LA VARIABLE CIBLE ---")
+print(prop.table(table(absences_par_cours$alerte)))
+
+# Taux d'alerte par catégorie (Le cas des TP)
+separation <- absences_par_cours %>%
+  group_by(type_cours_clean) %>%
+  summarise(taux_alerte = mean(alerte), effectif = n())
+print(separation)
+```
+Modèle de Régression Logistique
+```{r}
+modele_log <- glm(alerte ~ type_cours_clean, 
+                  data = absences_par_cours, 
+                  family = binomial(link = "logit"))
+
+summary(modele_log)
+
+print("--- ODDS RATIOS ---")
+exp(coef(modele_log))
+
+absences_par_cours$prob_predite <- predict(modele_log, type = "response")
+print("--- MATRICE DE CONFUSION ---")
+table(Réalité = absences_par_cours$alerte, 
+      Prédiction = ifelse(absences_par_cours$prob_predite > 0.5, 1, 0))
+```
+
+
+
+
