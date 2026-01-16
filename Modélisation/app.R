@@ -9,14 +9,14 @@ library(lubridate)
 # =======================================================
 
 # --- LOAD DATA ---
-cleaned_abs    <- read.csv("../cleaned_abs.csv")
-metadata_cours <- read.csv("../metadata_cours.csv")
-dates_examens  <- read.csv("../dates_examens.csv")
+cleaned_abs    <- read.csv("./cleaned_abs.csv")
+metadata_cours <- read.csv("./metadata_cours.csv")
+dates_examens  <- read.csv("./dates_examens.csv")
 
 # Load daily schedule stats for volume horaire analysis
-stats_dams3 <- read.csv2("../Stats_Quotidiennes_DaMS3.csv") %>% mutate(Groupe = "DaMS3")
-stats_dams4 <- read.csv2("../Stats_Quotidiennes_DaMS4.csv") %>% mutate(Groupe = "DaMS4")
-stats_dams5 <- read.csv2("../Stats_Quotidiennes_DaMS5.csv") %>% mutate(Groupe = "DaMS5")
+stats_dams3 <- read.csv2("./Stats_Quotidiennes_DaMS3.csv") %>% mutate(Groupe = "DaMS3")
+stats_dams4 <- read.csv2("./Stats_Quotidiennes_DaMS4.csv") %>% mutate(Groupe = "DaMS4")
+stats_dams5 <- read.csv2("./Stats_Quotidiennes_DaMS5.csv") %>% mutate(Groupe = "DaMS5")
 
 stats_quotidiennes <- bind_rows(stats_dams3, stats_dams4, stats_dams5) %>%
   mutate(
@@ -207,7 +207,11 @@ ui <- fluidPage(
                                     h4("Absences par Matière"),
                                     plotOutput("stu_plot_subject", height = "350px")
                              )
-                           ),
+                           ),> runApp('projetDataScienceAbsenteisme/Modélisation')
+Warning in file(file, "rt") :
+  cannot open file '../cleaned_abs.csv': No such file or directory
+Error in file(file, "rt") : cannot open the connection
+
                            hr(),
                            h4("Évolution de l'Absentéisme au Fil du Semestre"),
                            plotOutput("stu_plot_weekly", height = "250px")
